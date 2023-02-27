@@ -1,0 +1,26 @@
+@import url('../fonts/stylesheet.css');
+
+
+h1, h3, h4, h5, h6{
+    font-family: 'oswaldregular';
+    color:orange;
+}
+
+h2 {
+    font-size: 5rem;
+    color: ghostwhite;
+}
+
+.image-logo{
+    width: 169px;
+    height: 65px;}
+
+main {
+    margin-top: 4rem;
+}
+
+body{
+    font-family: 'roboto';
+}
+
+
